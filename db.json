@@ -71,11 +71,38 @@
         "is_liked": false
       }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "invitation": [
+    {
+      "profile_image": "https://i.ibb.co/RCF71gL/image.webp",
+      "name": "Bob Alice",
+      "bio": "Engineering student in Big Data and New techmologies",
+      "connections": "Hassen and 26 others",
+      "invitation_state": "pending"
+
+    },
+    {
+      "profile_image": "https://i.ibb.co/RCF71gL/image.webp",
+      "name": "Bob Alice",
+      "bio": "Engineering student in Big Data and New techmologies",
+      "connections": "Hassen and 26 others",
+      "invitation_state": "pending"
+
+    },
+    {
+      "profile_image": "https://i.ibb.co/RCF71gL/image.webp",
+      "name": "Bob Alice",
+      "bio": "Engineering student in Big Data and New techmologies",
+      "connections": "Hassen and 26 others",
+      "invitation_state": "pending"
+
+    },
+    {
+      "profile_image": "https://i.ibb.co/RCF71gL/image.webp",
+      "name": "Bob Alice",
+      "bio": "Engineering student in Big Data and New techmologies",
+      "connections": "Hassen and 26 others",
+      "invitation_state": "pending"
+
+    }
+  ]
 }
